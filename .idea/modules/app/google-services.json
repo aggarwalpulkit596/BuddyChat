@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365560714412",
+    "firebase_url": "https://buddychat-c3737.firebaseio.com",
+    "project_id": "buddychat-c3737",
+    "storage_bucket": "buddychat-c3737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365560714412:android:3332d385aabbe2f254fb09",
+        "android_client_info": {
+          "package_name": "com.android.buddychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365560714412-4mnc2divoub9eb68pha6qbg83p8bedoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.buddychat",
+            "certificate_hash": "045d03c53b977ce83094ddd639512ed015c8ffc0"
+          }
+        },
+        {
+          "client_id": "365560714412-1i8op4560e4ithvgcnokq55csljoi0ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNXGmEEmF1R7_6GGCB4g31wXewdsj20Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365560714412-1i8op4560e4ithvgcnokq55csljoi0ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
